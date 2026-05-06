@@ -31,7 +31,7 @@
 ```java
 public class Dheirya extends Developer {
 
-    String name        = "Dheirya Mehta";
+    String name        = "Dheirya V Mehta";
     String location    = "India 🇮🇳";
     String university  = "SRMIST — B.Tech CSE (2024–2028)";
     String role        = "Python Programmer & Security Enthusiast";
