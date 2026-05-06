@@ -32,7 +32,7 @@
 public class Dheirya extends Developer {
 
     String name        = "Dheirya V Mehta";
-    String location    = "India 🇮🇳";
+    String location    = "Chennai India 🇮🇳";
     String university  = "SRMIST — B.Tech CSE (2024–2028)";
     String role        = "Python Programmer & Security Enthusiast";
     String year        = "2nd Year";
@@ -40,7 +40,7 @@ public class Dheirya extends Developer {
     String[] currentFocus = {
         "AI Integration in Web Apps",
         "Python Automation & OSINT",
-        "Java Management Systems",
+        "Data Structure & Algorithm",
         "Cyber Security & Termux Hacking"
     };
 
@@ -64,11 +64,20 @@ public class Dheirya extends Developer {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🚀 Tools & Specializations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -91,19 +100,6 @@ public class Dheirya extends Developer {
       <p>✅ Dynamic content generation<br/>✅ AI-driven resume optimization<br/>✅ Clean, printable PDF output</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 Osintgram (Instagram OSINT)</h3>
-      <p><strong>Python | OSINT | Security</strong></p>
-      <p>An interactive shell-based tool for performing Instagram OSINT. Allows users to gather public data for analysis and security auditing in a streamlined interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-OSINT-lightgrey?style=flat-square" />
-        <img src="https://img.shields.io/badge/Shell-Interactive-success?style=flat-square" />
-      </p>
-      <p>✅ Public data aggregation<br/>✅ Interactive command shell<br/>✅ Security research utility</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>⏰ Habit Tracker & Reminder</h3>
       <p><strong>Java | Swing | DBMS</strong></p>
       <p>A comprehensive management application for tracking daily habits and setting timely reminders. Built with a robust Java backend and persistent database storage.</p>
@@ -113,6 +109,8 @@ public class Dheirya extends Developer {
       </p>
       <p>✅ Daily habit logging<br/>✅ Automated reminder system<br/>✅ Persistent user data storage</p>
     </td>
+      </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🚆 Train Consist Management</h3>
       <p><strong>Java | OOP | System Design</strong></p>
